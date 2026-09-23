@@ -1,0 +1,1 @@
+توی صفحه Repository که ساختی، لینک 'uploading an existing file' رو بزن (یا Add file → Upload files). بعد کل محتوای داخل پوشه GoldWidgetAndroid (نه خود پوشه، بلکه فایل‌ها و زیرپوشه‌های داخلش مثل app، build.gradle، settings.gradle، .github) رو بکش و بنداز (drag & drop) توی صفحه آپلود.
